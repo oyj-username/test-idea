@@ -12,4 +12,8 @@ public class TestIdea {
     public static void add(){
 
     }
+
+    public static  void sub(){
+
+    }
 }
