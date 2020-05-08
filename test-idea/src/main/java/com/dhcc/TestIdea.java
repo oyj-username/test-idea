@@ -10,7 +10,7 @@ public class TestIdea {
 
 
     public static void add(){
-
+            System.out.println("ddd");
     }
 
     public static  void sub(){
